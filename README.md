@@ -1,0 +1,24 @@
+## Sentiment Analytics Dashboard
+
+### Objective
+Analyze raw customer feedback to identify sentiment trends and business risk.
+
+### Tools
+- Python (TextBlob, Pandas)
+- Power BI (DAX, Visualization)
+- GitHub
+
+### Key Features
+- Sentiment classification (Positive, Negative, Neutral)
+- Risk flag creation from negative sentiment
+- Advanced DAX KPIs
+- Executive storytelling dashboard
+
+### Business Impact
+- Identifies high-risk customer feedback
+- Tracks sentiment health over time
+- Supports data-driven decision making
+
+📊 Live snapshot of the dashboard
+
+![Dashboard Screenshot](https://github.com/moonjalal9695/Analyze-sentiment-trends-and-business-risk/blob/main/ss.JPG)
